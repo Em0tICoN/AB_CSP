@@ -1,4 +1,4 @@
-#AB, Variables practice
+#AB, 7th Variables practice
 
 name="atticus"
 number1to10="7"
