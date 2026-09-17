@@ -19,7 +19,7 @@ print(f"18/5 is {18/5} or {18//5} and the remainder is {18%5}")
 #order of operations
 average=[85,66,94,72,100]
 students= len(grades)
-avergae= sum(grades/people)
+average= sum(grades/people)
 
 print(f"the average is {int(average)}")
 
