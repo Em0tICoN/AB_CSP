@@ -10,7 +10,6 @@ while count <= 100000000000000000000000000:
 
 ducks=1
 goose=random.randint(1,11)
-
 while True:
     if ducks==goose:
         break
