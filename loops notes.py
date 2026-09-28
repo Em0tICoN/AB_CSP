@@ -3,7 +3,7 @@ import random
 
 count=1
 
-while count <= 100000000000000000000000000:
+while count <= 1:
     print(count)
     count+=1
 
