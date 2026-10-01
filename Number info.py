@@ -1,6 +1,6 @@
 #AB, 7th number info
 
-for number in range (1,99999999999999999999):
+for number in range (1,99999):
     if number % 2==0:
         if number % 5==0:
             print(f"{number} is even and isnt divisible by 5")
